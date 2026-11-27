@@ -1,9 +1,9 @@
-# Write the contest entry and print the character count.
+# Write the contest entry and print its character count before the final newline.
 import os
 from pathlib import Path
 
 
-TEXT = "Thank you for reading what I wrote after the house went quiet. I left the lamp on for you. The moth has already told its family it’s in publishing."
+TEXT = "Thank you for reading the quiet part. It can put the trumpet back in its case."
 
 
 def main():
